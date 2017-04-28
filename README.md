@@ -1,5 +1,7 @@
 # SeeedStudio 4A Motor Shield v1.0
-This is a fork of SeeedStudio's https://github.com/Seeed-Studio/SeeedMotorShieldV2. This is in order to make the shield work with Arduino UNO.
+This is a fork of SeeedStudio's https://github.com/Seeed-Studio/SeeedMotorShieldV2. This is in order to make the shield work with Arduino UNO. Even though in the link says it's SeeedMotorShieldV2, it's actually meant for the 4A Motor Shield v1.0 that you can find here
+
+https://www.seeedstudio.com/4A-Motor-Shield-p-1954.html
 
 The only difference is that in _MotorDriver.h_ I changed the pin numbers so they match the ones supported in Arduino UNO. The schematics is here
 
